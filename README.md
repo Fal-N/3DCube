@@ -1,4 +1,4 @@
-#3D Cube
+# 3D Cube
 
 3D rotating cube rendered in a Windows terminal using C++.
 
